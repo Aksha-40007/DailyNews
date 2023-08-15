@@ -34,7 +34,7 @@ export class Newscomp extends Component {
         document.title=`DailyNews- ${this.capitalizeFunc(this.props.category)}`
     }
 
-<<<<<<< HEAD
+
    async updateNews(){
         let url=`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=0d85607882e2420a847f4d5db27d9097&page=${this.state.page}&pagesize=${this.props.pagesize}`
         this.setState({loading: true});
@@ -44,7 +44,6 @@ export class Newscomp extends Component {
         this.setState({articles: parsedData.articles, totalResults: parsedData.totalResults, loading: false })
     }
 
-=======
 
     async updateNews(){
         this.props.setProgress(0);
@@ -58,7 +57,6 @@ export class Newscomp extends Component {
         this.props.setProgress(100);
     }
 
->>>>>>> 6fa6c4b (Infinite Scrollbar)
     async componentDidMount(){
         this.updateNews();
     }
