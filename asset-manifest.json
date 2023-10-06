@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aksha-40007.github.io/NewsApp/index.html/static/css/main.abd64e84.css",
-    "main.js": "/aksha-40007.github.io/NewsApp/index.html/static/js/main.b2d5f1c6.js",
-    "static/js/787.4c026eef.chunk.js": "/aksha-40007.github.io/NewsApp/index.html/static/js/787.4c026eef.chunk.js",
-    "static/media/loading.gif": "/aksha-40007.github.io/NewsApp/index.html/static/media/loading.6af3b8bcb5bf4fc68018.gif",
-    "index.html": "/aksha-40007.github.io/NewsApp/index.html/index.html",
-    "main.abd64e84.css.map": "/aksha-40007.github.io/NewsApp/index.html/static/css/main.abd64e84.css.map",
-    "main.b2d5f1c6.js.map": "/aksha-40007.github.io/NewsApp/index.html/static/js/main.b2d5f1c6.js.map",
-    "787.4c026eef.chunk.js.map": "/aksha-40007.github.io/NewsApp/index.html/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/aksha-40007.github.io/NewsApp/static/css/main.abd64e84.css",
+    "main.js": "/aksha-40007.github.io/NewsApp/static/js/main.aa136c71.js",
+    "static/js/787.4c026eef.chunk.js": "/aksha-40007.github.io/NewsApp/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/aksha-40007.github.io/NewsApp/static/media/loading.6af3b8bcb5bf4fc68018.gif",
+    "index.html": "/aksha-40007.github.io/NewsApp/index.html",
+    "main.abd64e84.css.map": "/aksha-40007.github.io/NewsApp/static/css/main.abd64e84.css.map",
+    "main.aa136c71.js.map": "/aksha-40007.github.io/NewsApp/static/js/main.aa136c71.js.map",
+    "787.4c026eef.chunk.js.map": "/aksha-40007.github.io/NewsApp/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.b2d5f1c6.js"
+    "static/js/main.aa136c71.js"
   ]
 }
